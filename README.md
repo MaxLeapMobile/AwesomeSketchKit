@@ -1,5 +1,4 @@
 # AwesomeSketchKit
-Collection of cool Sketch Plugins
 
 * [SketchToXcode](https://github.com/gliyao/SketchToXcode)
 
